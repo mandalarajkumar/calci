@@ -1,0 +1,50 @@
+
+table{
+    width: 410px;
+height: 100px;
+}
+.title{
+    margin-bottom: 20px;
+    text-align:center;
+font-size: 30px;
+    width: 410px;
+    padding-top: 10px;
+    height: 50px;
+    color:green;
+    border: solid black 2px;
+    font-weight: 600;
+    }
+
+    input[type="button"]
+    {
+    background-color:green;
+    color: black;
+    border:solid black 2px;
+    width: 100px;
+    }
+
+    input[type="text"]
+    {
+    background-color:lightgray;
+    border:solid lightgray 2px;
+    width: 98%;
+    height: 50px; 
+    font-size: 50px;
+}
+    input:hover{
+        background-color:transparent;
+    }
+    td{
+        border: none;
+    }
+    tr{
+        border: solid black 2px;
+        background-color: lightgray;
+    }
+    .child{
+        background-color: white;
+    }
+      #result{
+        text-align: right;
+      }   
+    
